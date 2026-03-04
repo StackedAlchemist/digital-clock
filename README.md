@@ -4,7 +4,7 @@
 
 A feature-rich digital clock application with world clock support, military time, an alarm system, and a countdown timer. Built with vanilla HTML, CSS, and JavaScript.
 
-**[🔮 View Live](https://stackedalchemist.github.io/Portfolio/digital-clock/)**
+**[🔮 View Live](https://stackedalchemist.github.io/stacked-alchemist/digital-clock/)**
 
 ---
 
@@ -33,7 +33,7 @@ A feature-rich digital clock application with world clock support, military time
 ## 🚀 Running Locally
 
 ```bash
-git clone https://github.com/StackedAlchemist/Portfolio.git
+git clone https://github.com/StackedAlchemist/stacked-alchemist.git
 cd Portfolio/digital-clock
 # Open index.html in your browser
 ```
@@ -51,4 +51,4 @@ digital-clock/
 
 ---
 
-*Built by [Billy Williams](https://stackedalchemist.github.io/Portfolio/) — Stacked Alchemist*
+*Built by [Billy Williams](https://stackedalchemist.github.io/stacked-alchemist/) — Stacked Alchemist*
